@@ -10,4 +10,4 @@
 Структура баз даних проекту:
 
 
-![image](https://user-images.githubusercontent.com/78899071/190180695-de77169e-fa25-4652-9d40-480970382931.png)
+![image](https://user-images.githubusercontent.com/78899071/190257485-cb699bc5-ebe2-436a-8c70-ae9ad8e3ef2e.png)
